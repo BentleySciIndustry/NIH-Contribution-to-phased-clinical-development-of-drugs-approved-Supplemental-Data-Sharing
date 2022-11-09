@@ -8,7 +8,7 @@ NIH_Funding_Grant_linker.py should be left outside of other two folders
 
 =========Input Prep============
 
-Go into new_data folder.
+Go into new_data folder:
 
 Place csv inputs and rename to match:
 
@@ -25,6 +25,7 @@ Run NIH_Funding_Grant_linker.py
 (this may take a few min depending on hardware limits)
 
 ========main outputs==========
+Go into new_data folder:
 
 Overview.csv (main overview of input PMID NIH funding)
 
